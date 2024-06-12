@@ -26,6 +26,7 @@ To get started with 'Rentalytics', clone the repository and follow the setup ins
 git clone https://github.com/yourusername/rentalytics.git
 cd rentalytics
 # Follow setup instructions
+```
 
 ## Contributing
 Contributions to ‘Rentalytics’ are welcome. Please read the contributing guidelines before submitting your proposals.
